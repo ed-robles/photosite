@@ -13,9 +13,8 @@ h1 {
 .gallery {
   column-count: 4;
   column-gap: 0;
-  padding: 1rem;
-  max-width: 1200px;
-  margin: 0 auto;
+  max-width: none;
+  margin: 0;
 }
 .gallery img {
   width: 100%;
